@@ -11,8 +11,8 @@ st.markdown("""
         .main {background-color: #f0f2f6;}
         .stSidebar {background-color: #2e3b4e; color: white;}
         .stTitle {color: #1f77b4; text-align: center;}
-        .stTextInput>div>div>input {background-color: #e8f0fe !important;}
-        .stSelectbox>div>div>select {background-color: #e8f0fe !important;}
+        .stTextInput>div>div>input {background-color: #3c3d47; color: white !important;}
+        .stSelectbox>div>div>select {background-color: #e8f1f1 !important;}
     </style>
 """, unsafe_allow_html=True)
 
